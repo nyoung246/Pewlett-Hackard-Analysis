@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-The purpose of this analysis is to assist Bobby in completing two more assignments assign by his manager. The first assignment includes determining the number of retiring employees per title, also considering whether they have held multiple positions. The second assignment was to identify employees who are eligible to participate in a mentorship program based on current employees and their birth dates. 
+The purpose of this analysis is to assist Bobby in completing two more assignments assigned by his manager. The first assignment includes determining the number of retiring employees per title, also considering whether they have held multiple positions. The second assignment was to identify employees who are eligible to participate in a mentorship program based on current employees and their birth dates. 
 
 ## Results:
 
